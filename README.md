@@ -15,7 +15,6 @@ Desarrollador full-stack con una sólida base en el ecosistema Python/Django y u
 
 **Frontend:**
 
-**Frontend:**
 
 HTML5 | CSS3 | JavaScript (ES6+) | React | Vue.js | Tailwind CSS | Bootstrap | Responsive Design | WebSockets
 
