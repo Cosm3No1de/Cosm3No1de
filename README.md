@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Cosm3No1de — Desarrollador Full-Stack | Seguridad en Linux 🐧</h1>
+<h1 align="center">🚀 Cosm3No1de — Desarrollador Full-Stack | Linux 🐧</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cosmenoide"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -43,7 +43,7 @@ Soy un desarrollador **full-stack** con especialización en **Python/Django** y 
 
 
 **Tecnologías:** `Angular` · `HTML/CSS` · `GitHub Pages`  
-📂 [Repositorio](https://github.com/Cosm3No1de/mi-portafolio)
+📂 [Repositorio](https://github.com/Cosm3No1de/LandingAngular)
 
 ---
 
