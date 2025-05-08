@@ -40,7 +40,7 @@ Soy un desarrollador **full-stack** con especialización en **Python/Django** y 
 #### 🌐 Mi Portafolio Web (Angular)
 > Proyecto personal para mostrar mis habilidades, experiencia y medios de contacto.
 
-![Portafolio Preview](src/assets/screenshot.png)
+
 
 **Tecnologías:** `Angular` · `HTML/CSS` · `GitHub Pages`  
 📂 [Repositorio](https://github.com/Cosm3No1de/mi-portafolio)
@@ -50,7 +50,7 @@ Soy un desarrollador **full-stack** con especialización en **Python/Django** y 
 #### 🛒 E-commerce con Vue.js
 > Tienda virtual construida con Vue.js. Diseño responsivo, enfocado en UX y buenas prácticas.
 
-![E-commerce Preview](public/screenshot.png)
+
 
 **Tecnologías:** `Vue 3` · `Vite` · `Vue Router` · `Pinia` · `JavaScript`  
 📂 [Repositorio](https://github.com/Cosm3No1de/ecommerce-vue)
