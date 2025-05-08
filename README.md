@@ -36,6 +36,19 @@ Desarrollador full-stack con especialización en **Python/Django** y fuerte orie
 
 ### 🧪 Proyectos Destacados
 
+#### 🌐 Mi Portafolio Web - Angular
+
+¡Bienvenido/a a mi portafolio desarrollado con Angular!  
+Aquí muestro quién soy, mis proyectos, y cómo contactarme para posibles oportunidades laborales o colaboraciones.
+
+![Vista previa](src/assets/screenshot.png)
+
+## 🚀 Tecnologías utilizadas
+
+- Angular
+- HTML, CSS
+- Git y GitHub
+
 #### 💬 Chat Messenger Seguro (Tiempo real con Node.js y Socket.IO)
 [![Ver repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/Cosm3No1de/Chat-Simple)  
 Chat de red local con comunicación en tiempo real utilizando `Socket.IO`. Enfocado en privacidad y conexión segura entre usuarios.
@@ -44,21 +57,27 @@ Chat de red local con comunicación en tiempo real utilizando `Socket.IO`. Enfoc
 [![Ver repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](ENLACE_AL_REPOSITORIO_VULN)  
 Una API poderosa con `Django REST Framework` para reportar, rastrear y clasificar vulnerabilidades. Autenticación, roles y reportes integrados.
 
-#### 🔐 Sistema de Autenticación Segura (React + Django JWT)
-[![Ver repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](ENLACE_AL_REPOSITORIO_AUTH)  
-Login moderno y seguro con `JWT`, protección contra ataques comunes (XSS, CSRF), UI limpia con React.
+#### 🛒 E-commerce Vue
 
----
+Este es un proyecto de tienda virtual desarrollado con Vue.js, enfocado en la experiencia del usuario y un diseño limpio y responsivo.
 
-### 🖼️ Vista previa de mi portafolio
+![Vista previa](public/screenshot.png)
 
-<img src="src/assets/screenshot.png" alt="preview" width="100%" />
+## 🧰 Tecnologías utilizadas
+
+- [Vue.js 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/) o Vue CLI
+- JavaScript / HTML / CSS
+- Vue Router
+- Vuex o Pinia (si usas gestión de estado)
+- Git + GitHub
+
 
 ---
 
 ### 📫 Contacto
 
-- ✉️ **Email:** tu_cosmenoide@gmail.com  
+- ✉️ **Email:** cosmenoide@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/cosmenoide](https://www.linkedin.com/in/cosmenoide)  
 - 🧑‍💻 **GitHub:** [github.com/Cosm3No1de](https://github.com/Cosm3No1de)  
 - 📸 **Instagram:** [@cosmenoide](https://instagram.com/cosmenoide)
