@@ -53,7 +53,7 @@ Soy un desarrollador **full-stack** con especialización en **Python/Django** y 
 
 
 **Tecnologías:** `Vue 3` · `Vite` · `Vue Router` · `Pinia` · `JavaScript`  
-📂 [Repositorio](https://github.com/Cosm3No1de/ecommerce-vue)
+📂 [Repositorio](https://github.com/Cosm3No1de/ecommerceVUE)
 
 ---
 
