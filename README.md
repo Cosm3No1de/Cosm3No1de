@@ -1,110 +1,72 @@
-# ¡Hola! Soy Cosm3No1de 🚀 Desarrollador Full-Stack Apasionado con Enfoque en Python/Django y Seguridad Linux
+<h1 align="center">🚀 Cosm3No1de - Desarrollador Full-Stack & Apasionado por la Seguridad Linux 🐧</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmenoide)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cosm3No1de)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cosmenoide)
-
-
-<br>
-
-Desarrollador full-stack con una sólida base en el ecosistema Python/Django y una profunda curiosidad por la seguridad informática en entornos Linux, incluyendo Kali Linux. Mi pasión radica en construir aplicaciones web robustas, escalables y seguras, con una atención meticulosa a la experiencia del usuario tanto en el frontend como en el backend. Poseo un nivel de inglés intermedio, lo que me permite comprender documentación técnica y comunicarme eficazmente en entornos internacionales.
+<p align="center">
+  <a href="https://www.linkedin.com/in/cosmenoide"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Cosm3No1de"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/cosmenoide"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+### 👨‍💻 Sobre Mí
 
-**Frontend:**
+Desarrollador full-stack con especialización en **Python/Django** y fuerte orientación a la **seguridad en Linux**. Me apasiona crear aplicaciones web robustas, funcionales y seguras, aplicando buenas prácticas tanto en backend como en frontend. Actualmente profundizo en pentesting y despliegue de microservicios seguros.
 
-
-HTML5 | CSS3 | JavaScript (ES6+) | React | Vue.js | Tailwind CSS | Bootstrap | Responsive Design | WebSockets
-
-
-**Backend (Python/Django):**
-
-Python | Django | Django REST Framework | RESTful APIs | GraphQL (Graphene) | Celery | Asynchronous Programming (Async/Await) | Unit Testing | Integration Testing | Seguridad en Django
-
-
-**Bases de Datos:**
-
-PostgreSQL | MySQL | SQLite | MongoDB | ORM (Django ORM, SQLAlchemy)
-
-
-**Seguridad y Linux:**
-
-Kali Linux (Uso Avanzado: Penetration Testing, Ethical Hacking, Forensics) | Linux (Administración de Sistemas, Shell Scripting - Bash, Zsh) | Seguridad de Redes | Criptografía | Vulnerability Assessment | Seguridad de Aplicaciones Web
-
-
-**Herramientas y Tecnologías:**
-
-Git | GitHub | GitLab | Docker | Docker Compose | CI/CD (GitHub Actions, GitLab CI) | Nginx | Apache | AWS | Google Cloud Platform | Heroku
-
-
-**Idiomas:**
-
-Español (Nativo) | Inglés (Intermedio - B2)
-
-
-**Otras:**
-
-Metodologías Ágiles (Scrum, Kanban) | Resolución de Problemas | Pensamiento Analítico | Aprendizaje Continuo
-
+📌 **Inglés Intermedio (B2)**  
+📌 **Entornos Linux (Kali, Debian, Ubuntu)**  
+📌 **Curioso por naturaleza + aprendiz constante**
 
 ---
 
-## 🔭 Proyectos Destacados
+### 🛠️ Tecnologías y Herramientas
 
-Aquí algunos de los proyectos en los que he trabajado, destacando mi experiencia en full-stack con Python/Django y mi conocimiento en seguridad:
+**Frontend:**  
+`HTML5` · `CSS3` · `JavaScript` · `Vue.js` · `React` · `Tailwind CSS` · `Bootstrap` · `WebSockets`
 
-### 💬 Chat Messenger Seguro (Nuestro Proyecto)
-[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cosm3No1de/Chat-Simple)
-[![Tecnologías](https://img.shields.io/badge/Tech-Node.js%20%7C%20Express%20%7C%20Socket.IO%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-informational?style=flat-square)](https://github.com/Cosm3No1de/Chat-Simple)
+**Backend:**  
+`Python` · `Django REST Framework` · `Celery` · `Async/Await` · `Testing` · `GraphQL`
 
-Un chat en tiempo real construido con Node.js, Express y Socket.IO, con énfasis en la comunicación segura entre usuarios conectados en la misma red. [Aquí podrías mencionar si implementaste encriptación o medidas de seguridad adicionales].
+**Bases de Datos:**  
+`PostgreSQL` · `MySQL` · `SQLite` · `MongoDB` · `ORM`
 
-### 🛡️ Plataforma de Gestión de Vulnerabilidades (Backend Django)
-[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](ENLACE_AL_REPOSITORIO_VULN)
-[![Tecnologías](https://img.shields.io/badge/Tech-Python%20%7C%20Django%20REST%20Framework%20%7C%20PostgreSQL-informational?style=flat-square)](ENLACE_AL_REPOSITORIO_VULN)
-
-Desarrollo de una API robusta con Django REST Framework para gestionar y rastrear vulnerabilidades de seguridad en sistemas. Incluye autenticación avanzada, gestión de usuarios y reportes detallados.
-
-### 🔑 Sistema de Autenticación Segura (Full-Stack - React y Django)
-[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](ENLACE_AL_REPOSITORIO_AUTH)
-[![Tecnologías](https://img.shields.io/badge/Tech-React%20%7C%20Django%20%7C%20JWT-informational?style=flat-square)](ENLACE_AL_REPOSITORIO_AUTH)
-
-Implementación de un sistema de autenticación de usuarios seguro utilizando React en el frontend y Django con JWT (JSON Web Tokens) en el backend, incorporando medidas contra ataques comunes como CSRF y XSS.
+**DevOps / Seguridad:**  
+`Git` · `Docker` · `CI/CD` · `Nginx` · `Kali Linux` · `Shell Scripting` · `Auditorías Web` · `Criptografía`
 
 ---
 
-## 🔭 Explorando el Mundo de la Seguridad y el Desarrollo
+### 🧪 Proyectos Destacados
 
-Actualmente estoy profundizando en:
+#### 💬 Chat Messenger Seguro (Tiempo real con Node.js y Socket.IO)
+[![Ver repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/Cosm3No1de/Chat-Simple)  
+Chat de red local con comunicación en tiempo real utilizando `Socket.IO`. Enfocado en privacidad y conexión segura entre usuarios.
 
-- Técnicas avanzadas de pentesting con Kali Linux.
-- Desarrollo de microservicios con Python y Docker.
-- Optimización del rendimiento en aplicaciones Django a gran escala.
-- Mejores prácticas de seguridad en el desarrollo web.
+#### 🛡️ Plataforma de Gestión de Vulnerabilidades (Django + PostgreSQL)
+[![Ver repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](ENLACE_AL_REPOSITORIO_VULN)  
+Una API poderosa con `Django REST Framework` para reportar, rastrear y clasificar vulnerabilidades. Autenticación, roles y reportes integrados.
 
----
-
-## 🗣️ Nivel de Inglés
-
-**Intermedio (B2):** Capacidad para comprender los puntos principales de textos complejos sobre temas concretos y abstractos, incluyendo discusiones técnicas en mi campo de especialización. Puedo interactuar con un grado de fluidez y espontaneidad que permite la comunicación regular con hablantes nativos sin esfuerzo significativo por parte de ninguno de los interlocutores. Soy capaz de producir textos claros y detallados sobre una amplia gama de temas y puedo expresar opiniones y argumentar puntos de vista.
-
----
-
-## ✨ ¡Conéctate Conmigo! ✨
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmenoide/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cosm3No1de)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cosmenoide)
-[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_cosmenoide@gmail.com)
-
-
-¡No dudes en contactarme si tienes alguna pregunta, oportunidad de colaboración en proyectos de desarrollo o seguridad, o simplemente quieres conectar!
+#### 🔐 Sistema de Autenticación Segura (React + Django JWT)
+[![Ver repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](ENLACE_AL_REPOSITORIO_AUTH)  
+Login moderno y seguro con `JWT`, protección contra ataques comunes (XSS, CSRF), UI limpia con React.
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+### 🖼️ Vista previa de mi portafolio
+
+<img src="src/assets/screenshot.png" alt="preview" width="100%" />
+
+---
+
+### 📫 Contacto
+
+- ✉️ **Email:** tu_cosmenoide@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/cosmenoide](https://www.linkedin.com/in/cosmenoide)  
+- 🧑‍💻 **GitHub:** [github.com/Cosm3No1de](https://github.com/Cosm3No1de)  
+- 📸 **Instagram:** [@cosmenoide](https://instagram.com/cosmenoide)
+
+---
+
+<p align="center"><b>Gracias por visitar mi perfil 💻</b></p>
+
 
 
 
