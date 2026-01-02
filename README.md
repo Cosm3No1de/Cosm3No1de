@@ -1,90 +1,54 @@
-<h1 align="center">🚀 Cosm3No1de — Desarrollador Full-Stack | Linux 🐧</h1>
+# 🛡️ CosmeNoide | Mobile Security Engineer & Flutter Developer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cosmenoide"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Cosm3No1de"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/cosmenoide"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+![Status](https://img.shields.io/badge/Challenge-30--Day%20Security%20Sprint-blue?style=for-the-badge)
+![Niche](https://img.shields.io/badge/Specialization-DevSecOps%20%2F%20Hardening-red?style=for-the-badge)
 
----
-
-### 👨‍💻 Sobre mí
-
-Soy un desarrollador **full-stack** con especialización en **Python/Django** y una fuerte orientación hacia la **seguridad informática en entornos Linux**. Me apasiona crear soluciones web completas, robustas y seguras. Siempre estoy aprendiendo y explorando nuevas tecnologías, especialmente en el área de **pentesting, devops y desarrollo backend escalable**.
-
-- 📍 Linux Avanzado (Kali, Debian, Ubuntu)
-- 🌐 Web segura desde el backend hasta el frontend
-- 🌱 En constante formación en ciberseguridad y microservicios
-- 🌎 Inglés Intermedio (B2)
+He pasado los últimos 30 días construyendo un arsenal de herramientas defensivas y ofensivas para entornos móviles. Mi enfoque principal es cerrar la brecha entre el desarrollo ágil con **Flutter** y los estándares de seguridad de nivel bancario. **Yo no solo desarrollo apps; las blindo.**
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Valor Agregado: "Security-First Development"
 
-**Frontend:**  
-`HTML5` · `CSS3` · `JavaScript` · `Vue.js` · `React` · `Angular` · `Tailwind CSS` · `Bootstrap`
-
-**Backend:**  
-`Python` · `Django` · `Django REST Framework` · `Celery` · `GraphQL` · `Async/Await`
-
-**Bases de Datos:**  
-`PostgreSQL` · `MySQL` · `SQLite` · `MongoDB`
-
-**DevOps / Seguridad:**  
-`Docker` · `Git` · `GitHub Actions` · `Nginx` · `Kali Linux` · `Shell Scripting` · `Pentesting` · `Criptografía`
+A diferencia de un desarrollador Flutter tradicional, mi flujo de trabajo integra:
+* **Zero-Knowledge Architectures**: Diseño de sistemas donde el servidor nunca ve los datos sensibles.
+* **Advanced Cryptography**: Implementación de protocolos E2EE (End-to-End Encryption) usando estándares AES-256 y RSA.
+* **Network Fingerprinting**: Capacidad de auditar redes locales y detectar vulnerabilidades activas desde el dispositivo.
+* **App Hardening**: Ofuscación de código, gestión segura de secretos (.env) y protección de memoria local.
 
 ---
 
-### 🔥 Proyectos Destacados
+## 🛠️ Stack Tecnológico de Seguridad
 
-#### 🌐 Mi Portafolio Web (Angular)
-> Proyecto personal para mostrar mis habilidades, experiencia y medios de contacto.
-
-
-
-**Tecnologías:** `Angular` · `HTML/CSS` · `GitHub Pages`  
-📂 [Repositorio](https://github.com/Cosm3No1de/LandingAngular)
-
----
-
-#### 🛒 E-commerce con Vue.js
-> Tienda virtual construida con Vue.js. Diseño responsivo, enfocado en UX y buenas prácticas.
-
-
-
-**Tecnologías:** `Vue 3` · `Vite` · `Vue Router` · `Pinia` · `JavaScript`  
-📂 [Repositorio](https://github.com/Cosm3No1de/ecommerceVUE)
+| Capa | Tecnologías |
+| :--- | :--- |
+| **Mobile** | Flutter, Dart, Bloc, Platform Channels (C++/Java) |
+| **Seguridad** | Criptografía Simétrica/Asimétrica, SSL Pinning, Biometría |
+| **Redes** | Layer 7 Filtering, Proxying, Nmap-core integration |
+| **Backend** | Django REST Framework, Firebase Security Rules, PostgreSQL |
+| **Infraestructura** | Linux Hardening (Kali/Debian), Docker, GitHub Actions CI/CD |
 
 ---
 
-#### 💬 Chat Seguro en Tiempo Real
-> Aplicación de mensajería usando `Node.js` y `Socket.IO` con énfasis en conexiones privadas.
+## 📁 Portafolio de Ciberseguridad (Proyectos Críticos)
 
-**Tecnologías:** `Node.js` · `Express` · `Socket.IO`  
-📂 [Repositorio](https://github.com/Cosm3No1de/Chat-Simple)
+### 🔴 [Cosm3_Firewall](https://github.com/Cosm3No1de/cosm3_firewall_)
+**Firewall de Capa 7 para Android.** Implementación de un interceptor de tráfico en tiempo real que permite el aislamiento de procesos maliciosos y filtrado de paquetes basado en firmas.
 
----
+### 🟠 [WiFi Tool - Network Auditor](https://github.com/Cosm3No1de/cosm3_wifi_tool)
+**Herramienta de Pentesting Móvil.** Realiza escaneos de red, fingerprinting de dispositivos y detección de servicios expuestos para auditorías rápidas de seguridad inalámbrica.
 
-#### 🛡️ Plataforma de Gestión de Vulnerabilidades
-> API robusta en Django para rastrear vulnerabilidades, gestión de usuarios, roles y reportes.
-
-**Tecnologías:** `Django REST Framework` · `PostgreSQL` · `Autenticación`  
-📂 [Repositorio](ENLACE_AL_REPOSITORIO_VULN)
+### 🟢 [Cosm3SecureChat](https://github.com/Cosm3No1de/cosm3_secure_chat)
+**Mensajería Criptográfica.** Chat con cifrado E2EE y arquitectura de conocimiento cero. Incluye gestión profesional de incidentes (rotación de API keys y purga de secretos en historial).
 
 ---
 
-### 📬 Contacto
-
-- ✉️ **Email:** [cosmenoide@gmail.com](mailto:cosmenoide@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/cosmenoide](https://www.linkedin.com/in/cosmenoide)  
-- 🧑‍💻 **GitHub:** [github.com/Cosm3No1de](https://github.com/Cosm3No1de)  
-- 📸 **Instagram:** [@cosmenoide](https://instagram.com/cosmenoide)
+## 📈 Respuesta ante Incidentes (Log de Ciberseguridad)
+En este repositorio puedes auditar mis procesos de **DevSecOps**, incluyendo la limpieza de fugas de secretos mediante reescritura de historial Git y rotación de credenciales en infraestructura Cloud.
 
 ---
 
-<p align="center"><b>¡Gracias por visitar mi perfil! 😊</b></p>
+## 📬 Contacto Profesional
 
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cosmenoide)
+[![Portfolio](https://img.shields.io/badge/Linktree-Landing_Pages-1de9b6?style=for-the-badge&logo=linktree)](https://linktree.com/cosmenoide)
+✉️ **Email**: cosmenoide@gmail.com
