@@ -1,4 +1,3 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3afb2b44-cc11-48d5-80f7-0cc98e5eff2d" />
 🛠 Active Operations (Projects)
 🛡️ Cosm3_Firewall: Mobile Defense Suite para entornos críticos.
 
