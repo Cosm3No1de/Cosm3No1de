@@ -1,54 +1,63 @@
-# 🛡️ CosmeNoide | Mobile Security Engineer & Flutter Developer
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3afb2b44-cc11-48d5-80f7-0cc98e5eff2d" />
+🛠 Active Operations (Projects)
+🛡️ Cosm3_Firewall: Mobile Defense Suite para entornos críticos.
 
-![Status](https://img.shields.io/badge/Challenge-30--Day%20Security%20Sprint-blue?style=for-the-badge)
-![Niche](https://img.shields.io/badge/Specialization-DevSecOps%20%2F%20Hardening-red?style=for-the-badge)
+💬 Cosm3SecureChat: Mensajería con privacidad de grado empresarial.
 
-He pasado los últimos 30 días construyendo un arsenal de herramientas defensivas y ofensivas para entornos móviles. Mi enfoque principal es cerrar la brecha entre el desarrollo ágil con **Flutter** y los estándares de seguridad de nivel bancario. **Yo no solo desarrollo apps; las blindo.**
+📡 Cosm3No1de WiFi Tool: Auditoría de red profesional desde el móvil.
+
+🤝 Domestic-Flou: Conectando necesidades con oportunidades (Agile Dev).
+
+💻 Tech Stack & Tooling
+Flutter | Dart | Python | Kali Linux | Nmap | Firebase | PostgreSQL
+
+"The code is the shield, the logic is the weapon."
+
 
 ---
 
-## 🚀 Valor Agregado: "Security-First Development"
+### Opción 2: El "Cyber-Dashboard" (Visual y Moderno)
+Ideal si quieres usar **Badges (Escudos)** para que se vea muy profesional y organizado a primera vista.
 
-A diferencia de un desarrollador Flutter tradicional, mi flujo de trabajo integra:
-* **Zero-Knowledge Architectures**: Diseño de sistemas donde el servidor nunca ve los datos sensibles.
-* **Advanced Cryptography**: Implementación de protocolos E2EE (End-to-End Encryption) usando estándares AES-256 y RSA.
-* **Network Fingerprinting**: Capacidad de auditar redes locales y detectar vulnerabilidades activas desde el dispositivo.
-* **App Hardening**: Ofuscación de código, gestión segura de secretos (.env) y protección de memoria local.
-
----
-
-## 🛠️ Stack Tecnológico de Seguridad
-
-| Capa | Tecnologías |
+## ⚡ Profile Overview
+| **Field** | **Data** |
 | :--- | :--- |
-| **Mobile** | Flutter, Dart, Bloc, Platform Channels (C++/Java) |
-| **Seguridad** | Criptografía Simétrica/Asimétrica, SSL Pinning, Biometría |
-| **Redes** | Layer 7 Filtering, Proxying, Nmap-core integration |
-| **Backend** | Django REST Framework, Firebase Security Rules, PostgreSQL |
-| **Infraestructura** | Linux Hardening (Kali/Debian), Docker, GitHub Actions CI/CD |
+| **Role** | Security-First Flutter Developer |
+| **Focus** | Cryptography (AES-256/RSA) & App Hardening |
+| **Challenge** | 30-Day Security Sprint (Completed) |
+
+## 🚀 The Cosm3 Ecosystem
+* **[Cosm3SecureChat](link-repo)**: Privacy-focused communication.
+* **[Cosm3_Firewall](link-repo)**: Advanced mobile filtering & proxying.
+* **[Cosm3No1de WiFi](link-repo)**: Network fingerprinting and auditing.
+* **[Domestic-Flou](link-repo)**: Scalable mobile solutions.
+
+## 🛠 Weapons of Choice
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Cybersecurity](https://img.shields.io/badge/Security-Red?style=for-the-badge&logo=hackthebox&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
-## 📁 Portafolio de Ciberseguridad (Proyectos Críticos)
+### Opción 3: El "Hacker Profile" Minimalista
+Enfoque directo en la construcción del ecosistema de herramientas. Menos es más.
 
-### 🔴 [Cosm3_Firewall](https://github.com/Cosm3No1de/cosm3_firewall_)
-**Firewall de Capa 7 para Android.** Implementación de un interceptor de tráfico en tiempo real que permite el aislamiento de procesos maliciosos y filtrado de paquetes basado en firmas.
+```markdown
+# CosmeNoide | Mobile Security Architect
 
-### 🟠 [WiFi Tool - Network Auditor](https://github.com/Cosm3No1de/cosm3_wifi_tool)
-**Herramienta de Pentesting Móvil.** Realiza escaneos de red, fingerprinting de dispositivos y detección de servicios expuestos para auditorías rápidas de seguridad inalámbrica.
+> He pasado los últimos 30 días cerrando la brecha entre el desarrollo ágil y la seguridad de nivel bancario.
 
-### 🟢 [Cosm3SecureChat](https://github.com/Cosm3No1de/cosm3_secure_chat)
-**Mensajería Criptográfica.** Chat con cifrado E2EE y arquitectura de conocimiento cero. Incluye gestión profesional de incidentes (rotación de API keys y purga de secretos en historial).
+### 📁 Current Repositories
+- **Cosm3_Firewall**: Capacidad de auditar redes locales y detectar vulnerabilidades.
+- **Cosm3SecureChat**: Criptografía simétrica/asimétrica y SSL Pinning.
+- **Cosm3No1de | WiFi Tool**: Layer 7 Filtering y monitoreo de tráfico.
+- **Domestic-Flou**: Desarrollo de aplicaciones móviles robustas.
+
+### 🛡 Security Expertise
+- **App Hardening**: Ofuscación de código y gestión de secretos (.env).
+- **Network Fingerprinting**: Integración de Nmap-core en entornos móviles.
+- **Zero-Knowledge**: Arquitecturas donde el servidor nunca ve los datos.
 
 ---
-
-## 📈 Respuesta ante Incidentes (Log de Ciberseguridad)
-En este repositorio puedes auditar mis procesos de **DevSecOps**, incluyendo la limpieza de fugas de secretos mediante reescritura de historial Git y rotación de credenciales en infraestructura Cloud.
-
----
-
-## 📬 Contacto Profesional
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cosmenoide)
-[![Portfolio](https://img.shields.io/badge/Linktree-Landing_Pages-1de9b6?style=for-the-badge&logo=linktree)](https://linktree.com/cosmenoide)
-✉️ **Email**: cosmenoide@gmail.com
+[ 🛰️ Linktree ](https://linktr.ee/cosmenoide) | [ 📧 Contact ](mailto:cosmenoide@gmail.com)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosm3No1de&layout=compact&theme=tokyonight)
