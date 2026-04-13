@@ -19,10 +19,10 @@
 ## 🚀 The Cosm3 Ecosystem
 *Proyectos destacados de investigación y desarrollo:*
 
-* **🛡️ [Cosm3_Firewall]([https://github.com/Cosm3No1de](https://cosm3no1de.github.io/Cosm3_Firewall))** — **Mobile Defense Suite**: Auditoría de redes locales y detección de vulnerabilidades activas desde el dispositivo.
-* **💬 [Cosm3SecureChat]([https://github.com/Cosm3No1de](https://cosm3no1de.github.io/Cosm3SecureChat))** — **Enterprise Privacy**: Mensajería con criptografía simétrica/asimétrica y SSL Pinning.
-* **📡 [Cosm3No1de WiFi Tool]([https://github.com/Cosm3No1de](https://cosm3no1de.github.io/Cosm3No1de-WifiTool))** — **Network Auditor**: Herramienta profesional de Layer 7 Filtering y monitoreo de tráfico.
-* **🤝 [Domestic-Flou]([https://github.com/Cosm3No1de](https://cosm3no1de.github.io/domestic-flow-landing))** — **Scalable Solutions**: Aplicación móvil robusta enfocada en la optimización de flujos domésticos.
+* **🛡️ [Cosm3_Firewall](https://github.com/Cosm3No1de](https://cosm3no1de.github.io/Cosm3_Firewall)** — **Mobile Defense Suite**: Auditoría de redes locales y detección de vulnerabilidades activas desde el dispositivo.
+* **💬 [Cosm3SecureChat](https://github.com/Cosm3No1de](https://cosm3no1de.github.io/Cosm3SecureChat)** — **Enterprise Privacy**: Mensajería con criptografía simétrica/asimétrica y SSL Pinning.
+* **📡 [Cosm3No1de WiFi Tool](https://github.com/Cosm3No1de](https://cosm3no1de.github.io/Cosm3No1de-WifiTool)** — **Network Auditor**: Herramienta profesional de Layer 7 Filtering y monitoreo de tráfico.
+* **🤝 [Domestic-Flou](https://github.com/Cosm3No1de](https://cosm3no1de.github.io/domestic-flow-landing)** — **Scalable Solutions**: Aplicación móvil robusta enfocada en la optimización de flujos domésticos.
 
 ---
 
